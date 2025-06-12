@@ -18,15 +18,15 @@
 
 ###
 
-<h1 align="center">Bievenido a mi perfil! 👋</h1>
+<h1 align="center">Welcome to my profile! 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mi</h3>
+<h3 align="left">👩‍💻  About me</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm passionate developer from Spain 🇪🇸<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
