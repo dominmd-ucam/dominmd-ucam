@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm passionate developer from Spain 🇪🇸<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm passionate developer from Spain 🇪🇸<br><br>- 🔭I’m working on becoming a full-stack developer focused on building practical, user-centered applications that solve real problems<br>- 📚 I'm currently learning modern JavaScript frameworks like React and Node.js, along with best practices for scalable backend development<br>- ⚡In my free time I love exploring new tech trends like Artificial Intelligence, Augmented Reality, and future-forward tools like Blockchain. I enjoy building apps to simplify my daily life and that of the people around me. I’ve developed small web/apps that use Web Scraping, Automated Bots, and APIs to solve personal challenges.</p>
 
 ###
 
